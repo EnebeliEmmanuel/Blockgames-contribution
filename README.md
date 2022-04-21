@@ -18,15 +18,14 @@ A collection of all contributions made by me during the last three blockgames te
 
 | Description                                                                  | Commit Link                                                                                                                                                                          |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| added the logo to be used and changed the network from mumbai to rinkeby for deployment            | [https://github.com/TeamResilient/NestDrive/pull/26/commits/c2606e45a27528b81a9af61e8c40b1215ba8c27c](https://github.com/TeamResilient/NestDrive/pull/26/commits/c2606e45a27528b81a9af61e8c40b1215ba8c27c) |[https://github.com/TeamResilient/NestDrive/pull/26/commits/c639a113111b85776394af17b1ff5c9f7e8512d3](https://github.com/TeamResilient/NestDrive/pull/26/commits/c639a113111b85776394af17b1ff5c9f7e8512d3)|
-
+| added the logo to be used and changed the network from mumbai to rinkeby for deployment            | [https://github.com/TeamResilient/NestDrive/pull/26/commits/c2606e45a27528b81a9af61e8c40b1215ba8c27c](https://github.com/TeamResilient/NestDrive/pull/26/commits/c2606e45a27528b81a9af61e8c40b1215ba8c27c) |
 | logo changes, added changes to the home section | [https://github.com/TeamResilient/NestDrive/pull/24/commits](https://github.com/TeamResilient/NestDrive/pull/24/commits) |
 | Corrections made       | [https://github.com/TeamResilient/NestDrive/pull/16/commits](https://github.com/TeamResilient/NestDrive/pull/16/commits) |
-| Worked on the Landing page                        | [https://github.com/TeamResilient/NestDrive/pull/7/commits](https://github.com/TeamResilient/NestDrive/pull/7/commits) |
+| Worked on the Landing page | [https://github.com/TeamResilient/NestDrive/pull/7/commits](https://github.com/TeamResilient/NestDrive/pull/7/commits) |
 
-| also worked on the Team document, if that shud count for anything and i was very much involved in all the process during the project preparation
-| also helped in debugging errors for team mates, but i dont have link for that
-| also delegated roles just to ensure that we are not lagging behind
+| also worked on the Team document, if that shud count for anything and i was very much involved in all the process during the project preparation|
+| also helped in debugging errors for team mates, but i dont have link for that|
+| also delegated roles just to ensure that we are not lagging behind|
 
 ## Project 3 [ZuriDao]
 
