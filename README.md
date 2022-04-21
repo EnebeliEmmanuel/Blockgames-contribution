@@ -22,10 +22,9 @@ A collection of all contributions made by me during the last three blockgames te
 | logo changes, added changes to the home section | [https://github.com/TeamResilient/NestDrive/pull/24/commits](https://github.com/TeamResilient/NestDrive/pull/24/commits) |
 | Corrections made       | [https://github.com/TeamResilient/NestDrive/pull/16/commits](https://github.com/TeamResilient/NestDrive/pull/16/commits) |
 | Worked on the Landing page | [https://github.com/TeamResilient/NestDrive/pull/7/commits](https://github.com/TeamResilient/NestDrive/pull/7/commits) |
-
-| also worked on the Team document, if that shud count for anything and i was very much involved in all the process during the project preparation|
-| also helped in debugging errors for team mates, but i dont have link for that|
-| also delegated roles just to ensure that we are not lagging behind|
+| also worked on the Team document, if that shud count for anything and i was very much involved in all the process during the project preparation | []() |
+| also helped in debugging errors for team mates, but i dont have link for that | []() |
+| also delegated roles just to ensure that we are not lagging behind | []() |
 
 ## Project 3 [ZuriDao]
 
