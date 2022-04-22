@@ -33,5 +33,6 @@ A collection of all contributions made by me during the last three blockgames te
 | modified the landing page and added extra pages then created an NFT smart contract to confirm eligibilty of voters but it wasnt used cuz the team reverted to the method of using merkle tree proof instead.        | [https://github.com/The-Unicorn-Team/ZuriDao/commit/ac5885ac9541693464c4b920df56c8f043d48c61](https://github.com/The-Unicorn-Team/ZuriDao/commit/ac5885ac9541693464c4b920df56c8f043d48c61) |
 |modified landing page and extra pages added with some few corrections and editing | [https://github.com/The-Unicorn-Team/ZuriDao/commit/1835eefa157df22ea809d7163728d474165c4c9d](https://github.com/The-Unicorn-Team/ZuriDao/commit/1835eefa157df22ea809d7163728d474165c4c9d) |
 | setting up the Readme.md for The-Unicorn-Team so that anyone who wants to interact with our project will find it easy | [https://github.com/The-Unicorn-Team/ZuriDao/pull/9/commits/1835eefa157df22ea809d7163728d474165c4c9d](https://github.com/The-Unicorn-Team/ZuriDao/pull/9/commits/1835eefa157df22ea809d7163728d474165c4c9d) |
+|made some alignment changes in the elections page  | [https://github.com/The-Unicorn-Team/ZuriDao/pull/18/commits/c235955a26fd2931c64df7e7a227ce7956cd01b4](https://github.com/The-Unicorn-Team/ZuriDao/pull/18/commits/c235955a26fd2931c64df7e7a227ce7956cd01b4) |
 
 
